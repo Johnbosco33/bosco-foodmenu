@@ -1,0 +1,114 @@
+h1 {
+    margin-top: 5px;
+margin-bottom: 15px;
+font-size: 15px;
+font-style: oblique;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+color: black ;
+}
+
+body {
+    background-image: url(https://tse1.explicit.bing.net/th?id=OIP.GbIxL_bYUl-XjfB9HDPw7gHaE8&pid=Api&P=0); 
+padding: 20px;
+}
+
+h2 {
+    font-size: 50px;
+font-family: Impact, monospace, 'Arial Narrow Bold', sans-serif;
+font-style: normal;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.menu {
+    width: 50%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px ;
+    font-size: 20px;
+}
+
+.food, .snacks {
+    text-align: left;
+    width:75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: double;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+}
+    
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image-resize {
+    height: 75px;
+    width: auto;
+    object-fit: cover;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: black;
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 15px;
+text-align: center;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a:visited {
+ color: blue;
+}
+
+a:active {
+    color: blueviolet;
+}
+
+.address {
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
